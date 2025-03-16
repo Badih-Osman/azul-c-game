@@ -1,0 +1,745 @@
+# depslib dependency file v1.0
+1682530740 source:c:\users\thiba\google drive\estaca\projet algo\code\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1682525472 c:\users\thiba\google drive\estaca\projet algo\code\azul\definitions.h
+
+1682530883 source:c:\users\thiba\google drive\estaca\projet algo\code\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1682244480 c:\users\thiba\google drive\estaca\projet algo\code\azul\affichage.h
+
+1682362977 source:c:\users\thiba\google drive\estaca\projet algo\code\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"definitions.h"
+	"affichage.h"
+	"jeu.h"
+
+1682242396 c:\users\thiba\google drive\estaca\projet algo\code\azul\jeu.h
+
+1682530248 source:c:\users\thiba\google drive\estaca\projet algo\code\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1682530248 c:\users\thiba\google drive\estaca\projet algo\code\azul\initialisation.h
+
+1683246368 source:c:\users\lenovo\onedrive\desktop\azul\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683245931 c:\users\lenovo\onedrive\desktop\azul\azul\definitions.h
+
+1683235087 c:\users\lenovo\onedrive\desktop\azul\azul\initialisation.h
+
+1683235087 c:\users\lenovo\onedrive\desktop\azul\azul\jeu.h
+
+1683247769 source:c:\users\lenovo\onedrive\desktop\azul\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683248081 source:c:\users\lenovo\onedrive\desktop\azul\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683235123 c:\users\lenovo\onedrive\desktop\azul\azul\affichage 2.h
+
+1683235123 c:\users\lenovo\onedrive\desktop\azul\azul\affichage.h
+
+1683248053 source:c:\users\lenovo\onedrive\desktop\azul\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683248945 source:c:\users\user\desktop\azul (1)\azul\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683248945 c:\users\user\desktop\azul (1)\azul\azul\definitions.h
+
+1683248945 c:\users\user\desktop\azul (1)\azul\azul\initialisation.h
+
+1683248945 c:\users\user\desktop\azul (1)\azul\azul\affichage.h
+
+1683248945 c:\users\user\desktop\azul (1)\azul\azul\jeu.h
+
+1683248945 source:c:\users\user\desktop\azul (1)\azul\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683248945 source:c:\users\user\desktop\azul (1)\azul\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683249195 source:c:\users\user\desktop\azul (1)\azul\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683270878 source:c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683271307 c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\definitions.h
+
+1683271347 c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\initialisation.h
+
+1683270878 c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\affichage.h
+
+1683271604 c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\jeu.h
+
+1683271347 source:c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683271604 source:c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683275182 source:c:\users\thiba\google drive\estaca\projet algo\azul (1)\azul\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683292082 source:c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683271307 c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\definitions.h
+
+1683271347 c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\initialisation.h
+
+1683270878 c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\affichage.h
+
+1683318307 c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\jeu.h
+
+1683271347 source:c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683322461 source:c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683322623 source:c:\users\thiba\google drive\estaca\projet algo\nouveau\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683422579 source:c:\users\lenovo\onedrive\desktop\azul (2)\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683409036 c:\users\lenovo\onedrive\desktop\azul (2)\azul\definitions.h
+
+1683420656 c:\users\lenovo\onedrive\desktop\azul (2)\azul\initialisation.h
+
+1683420717 c:\users\lenovo\onedrive\desktop\azul (2)\azul\affichage.h
+
+1683409036 c:\users\lenovo\onedrive\desktop\azul (2)\azul\jeu.h
+
+1683419320 source:c:\users\lenovo\onedrive\desktop\azul (2)\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683418453 source:c:\users\lenovo\onedrive\desktop\azul (2)\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683409329 source:c:\users\lenovo\onedrive\desktop\azul (2)\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683425448 source:c:\users\user\desktop\azul\azul (2)\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683423253 c:\users\user\desktop\azul\azul (2)\azul\definitions.h
+
+1683423253 c:\users\user\desktop\azul\azul (2)\azul\initialisation.h
+
+1683423253 c:\users\user\desktop\azul\azul (2)\azul\affichage.h
+
+1683423253 c:\users\user\desktop\azul\azul (2)\azul\jeu.h
+
+1683423253 source:c:\users\user\desktop\azul\azul (2)\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683423253 source:c:\users\user\desktop\azul\azul (2)\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683452821 source:c:\users\user\desktop\azul\azul (2)\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683462519 source:c:\users\thiba\google drive\estaca\projet algo\nouveauplus\azul\azul (2)\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683462519 c:\users\thiba\google drive\estaca\projet algo\nouveauplus\azul\azul (2)\azul\definitions.h
+
+1683462519 c:\users\thiba\google drive\estaca\projet algo\nouveauplus\azul\azul (2)\azul\initialisation.h
+
+1683462519 c:\users\thiba\google drive\estaca\projet algo\nouveauplus\azul\azul (2)\azul\affichage.h
+
+1683462519 c:\users\thiba\google drive\estaca\projet algo\nouveauplus\azul\azul (2)\azul\jeu.h
+
+1683462519 source:c:\users\thiba\google drive\estaca\projet algo\nouveauplus\azul\azul (2)\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683462519 source:c:\users\thiba\google drive\estaca\projet algo\nouveauplus\azul\azul (2)\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683545254 source:c:\users\thiba\google drive\estaca\projet algo\n\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683545823 c:\users\thiba\google drive\estaca\projet algo\n\azul\definitions.h
+
+1683468304 c:\users\thiba\google drive\estaca\projet algo\n\azul\initialisation.h
+
+1683468304 c:\users\thiba\google drive\estaca\projet algo\n\azul\affichage.h
+
+1683548338 c:\users\thiba\google drive\estaca\projet algo\n\azul\jeu.h
+
+1683548128 source:c:\users\thiba\google drive\estaca\projet algo\n\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683548366 source:c:\users\thiba\google drive\estaca\projet algo\n\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683548338 source:c:\users\thiba\google drive\estaca\projet algo\n\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683573335 source:c:\users\user\desktop\azul_penal\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683573553 c:\users\user\desktop\azul_penal\azul\definitions.h
+
+1683573335 c:\users\user\desktop\azul_penal\azul\initialisation.h
+
+1683573335 c:\users\user\desktop\azul_penal\azul\affichage.h
+
+1683573336 c:\users\user\desktop\azul_penal\azul\jeu.h
+
+1683573335 source:c:\users\user\desktop\azul_penal\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683574357 source:c:\users\user\desktop\azul_penal\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683573934 source:c:\users\user\desktop\azul_penal\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683590742 source:c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683582365 c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\definitions.h
+
+1683582365 c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\initialisation.h
+
+1683585330 c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\affichage.h
+
+1683582365 c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\jeu.h
+
+1683589810 source:c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683582365 source:c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683590006 source:c:\users\lenovo\onedrive\desktop\azul_penal\azul_penal\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683591053 source:c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683591053 c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\definitions.h
+
+1683591053 c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\initialisation.h
+
+1683591053 c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\affichage.h
+
+1683591053 c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\jeu.h
+
+1683591053 source:c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683591053 source:c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683591053 source:c:\users\user\desktop\azul_penal final(1)\azul_penal\azul_penal\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683831319 source:c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683831387 c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\definitions.h
+
+1683637785 c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\initialisation.h
+
+1683831387 c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\affichage.h
+
+1683822279 c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\jeu.h
+
+1683831439 source:c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683825032 source:c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683830026 source:c:\users\thiba\google drive\estaca\projet algo\azul_penal final(1)\azul_penal final(1)\azul_penal\azul_penal\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683833333 source:c:\users\lenovo\onedrive\desktop\azul_fin\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683832073 c:\users\lenovo\onedrive\desktop\azul_fin\azul\definitions.h
+
+1683832073 c:\users\lenovo\onedrive\desktop\azul_fin\azul\initialisation.h
+
+1683832073 c:\users\lenovo\onedrive\desktop\azul_fin\azul\affichage.h
+
+1683832073 c:\users\lenovo\onedrive\desktop\azul_fin\azul\jeu.h
+
+1683832073 source:c:\users\lenovo\onedrive\desktop\azul_fin\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683832246 source:c:\users\lenovo\onedrive\desktop\azul_fin\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683832073 source:c:\users\lenovo\onedrive\desktop\azul_fin\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683978298 source:c:\users\thiba\google drive\estaca\projet algo\fin\azul\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683928635 c:\users\thiba\google drive\estaca\projet algo\fin\azul\definitions.h
+
+1683928635 c:\users\thiba\google drive\estaca\projet algo\fin\azul\initialisation.h
+
+1683978281 c:\users\thiba\google drive\estaca\projet algo\fin\azul\affichage.h
+
+1683978923 c:\users\thiba\google drive\estaca\projet algo\fin\azul\jeu.h
+
+1683977671 source:c:\users\thiba\google drive\estaca\projet algo\fin\azul\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683981276 source:c:\users\thiba\google drive\estaca\projet algo\fin\azul\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683981789 source:c:\users\thiba\google drive\estaca\projet algo\fin\azul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683978298 source:c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683928635 c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\definitions.h
+
+1683928635 c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\initialisation.h
+
+1683978281 c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\affichage.h
+
+1683978923 c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\jeu.h
+
+1683977671 source:c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683981826 source:c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"Definitions.h"
+	"Affichage.h"
+	"jeu.h"
+
+1683981789 source:c:\users\thiba\google drive\estaca\projet algo\projet_azul\azul_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Definitions.h"
+	"initialisation.h"
+	"Affichage.h"
+	"jeu.h"
+
